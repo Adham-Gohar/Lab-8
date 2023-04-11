@@ -1,3 +1,8 @@
+/*
+name: Adham Gohar
+id: 900225576
+*/
+
 #ifndef PHOTO_H
 #define PHOTO_H
 
